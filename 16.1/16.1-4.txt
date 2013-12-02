@@ -1,16 +1,17 @@
+The first in all example is a1
 Least duration:
 
-(    )(    )
-    (  )
+( )(    )(    )
+       (  )
 
-Overlaps with fewest (defective):
+Overlaps with fewest:
 
-           (   )
-         (   )
-       (   )
-(        )
-
+( )          (   )
+          (   )
+     (   )
+   (        )
+   (     )
 Earliest start time:
 
-(        )
- (  )(  )
+(  )(        )
+     (  )(  )
